@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.buttin {
+  background-color: #382f5a;
+  border-color: #c4c4c4;
+  width: 150px;
+  border-radius: 5px;
+  margin: 10px;
+  height: 30px;
+  color: white;
+}
+.buttins {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

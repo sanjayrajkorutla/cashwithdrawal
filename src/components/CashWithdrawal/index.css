@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 10px;
+}
+.card {
+  width: 500px;
+  height: 500px;
+  background-color: #150b3e;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px;
+  color: white;
+}
+.profile {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background-color: #c7d2fe;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.profile-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  color: #d4d2db;
+}
+.balance-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+  color: white;
+}
+.balance {
+  color: #585076;
+}
+.rup {
+  text-align: end;
+  margin: 10px;
+  color: #585076;
+}
